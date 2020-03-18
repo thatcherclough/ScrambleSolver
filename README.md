@@ -9,7 +9,7 @@ To do this, ScrambleSolver:
 - Cross references each combination with the 479k most common english words. (See [credits](https://github.com/ThatcherDev/ScrambleSolver#credits))
 
 ## Demo
-<a href="https://asciinema.org/a/vdb0JHXspo4PdJ0dTrxJ6tOPf" target="_blank"><img src="https://asciinema.org/a/vdb0JHXspo4PdJ0dTrxJ6tOPf.svg" width="600"/></a>
+<a href="https://asciinema.org/a/DQ4A5FEbWC0zuDtATXFOpXRy5" target="_blank"><img src="https://asciinema.org/a/DQ4A5FEbWC0zuDtATXFOpXRy5.svg" width="600"/></a>
 
 ## Requirements
 - A Java JDK distribution >=8 must be installed and added to PATH.
@@ -38,6 +38,15 @@ Alternatively, you can download the jar from the [release page](https://github.c
 ## Usage
 ```
 java -jar scramblesolver.jar
+ScrambleSolver: A simple word scramble solver (1.1.0)
+
+Usage:
+        java -jar scramblesolver.jar [-h] [-v] [-w WORD]
+
+Arguments:
+        -h, --help      Display this message.
+        -v, --version   Display current version.
+        -w, --word      Specify scramble to solve.
 ```
 
 ## Credits 
@@ -45,4 +54,4 @@ java -jar scramblesolver.jar
 
 ## License
 - [MIT](https://choosealicense.com/licenses/mit/)
-- Copyright 2020 ©️ ThatcherDev.
+- Copyright 2020 © ThatcherDev.
