@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ScrambleSolver {
 
 	private static String word = null;
-	final private static String help = "ScrambleSolver: A simple word scramble solver (1.1.0)\n\nUsage:\n\tjava -jar scramblesolver.jar [-h] [-v] [-w WORD]\n\n"
+	final private static String help = "ScrambleSolver: A simple word scramble solver (1.1.1)\n\nUsage:\n\tjava -jar scramblesolver.jar [-h] [-v] [-w WORD]\n\n"
 			+ "Arguments:\n\t-h, --help\tDisplay this message.\n\t-v, --version\tDisplay current version.\n\t-w, --word\tSpecify word scramble to solve.";
 
 	/**
