@@ -1,4 +1,4 @@
-package com.github.thatcherdev.scramblesolver;
+package dev.thatcherclough.scramblesolver;
 
 import java.io.File;
 import java.io.IOException;
