@@ -7,8 +7,8 @@
 		<version>2.1.8.RELEASE</version>
 		<relativePath />
 	</parent>
-	<groupId>com.github.thatcherdev</groupId>
-	<artifactId>scramblesolver</artifactId>
+	<groupId>dev.thatcherclough</groupId>
+	<artifactId>ScrambleSolver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ScrambleSolver</name>
 	<description>A simple word scramble solver.</description>
@@ -47,7 +47,7 @@
 						<phase>package</phase>
 						<configuration>
 							<finalName>scramblesolver</finalName>
-							<mainClass>com.github.thatcherdev.scramblesolver.ScrambleSolver</mainClass>
+							<mainClass>dev.thatcherclough.scramblesolver.ScrambleSolver</mainClass>
 							<outputDirectory>${project.basedir}</outputDirectory>
 						</configuration>
 						<goals>

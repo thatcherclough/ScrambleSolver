@@ -6,7 +6,7 @@ ScrambleSolver can unscramble and solve word scrambles.
 
 To do this, ScrambleSolver:
 - Permutes a given word to find all possible character combinations.
-- Cross references each combination with the 479k most common english words. (See [credits](https://github.com/ThatcherDev/ScrambleSolver#credits))
+- Cross references each combination with the 479k most common english words. (See [credits](https://github.com/thatcherclough/ScrambleSolver#credits))
 
 ## Demo
 <a href="https://asciinema.org/a/DQ4A5FEbWC0zuDtATXFOpXRy5" target="_blank"><img src="https://asciinema.org/a/DQ4A5FEbWC0zuDtATXFOpXRy5.svg" width="600"/></a>
@@ -20,7 +20,7 @@ ScrambleSolver is compatible with Windows, Mac, and Linux.
 ## Installation
 ```
 # clone ScrambleSolver
-git clone https://github.com/ThatcherDev/ScrambleSolver.git
+git clone https://github.com/thatcherclough/ScrambleSolver.git
 
 # change the working directory to ScrambleSolver
 cd ScrambleSolver
@@ -33,7 +33,7 @@ mvnw.cmd clean package
 sh mvnw clean package
 ```
 
-Alternatively, you can download the jar from the [release page](https://github.com/ThatcherDev/ScrambleSolver/releases).
+Alternatively, you can download the jar from the [release page](https://github.com/thatcherclough/ScrambleSolver/releases).
 
 ## Usage
 ```
@@ -54,4 +54,4 @@ Arguments:
 
 ## License
 - [MIT](https://choosealicense.com/licenses/mit/)
-- Copyright 2020 © ThatcherDev.
+- Copyright 2020 © Thatcher Clough.
